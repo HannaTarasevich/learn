@@ -5,7 +5,3 @@ six
 
 seven
 eleven
-
-Thai
-+
-++
