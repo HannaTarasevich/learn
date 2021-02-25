@@ -2,15 +2,6 @@ one
 two three
 four five
 six
+ 
 
-seven
-eleven
-
-Thai
-+
-++
-
-We'are shining
-We're living
-
-last
+CONFLICTLALA
